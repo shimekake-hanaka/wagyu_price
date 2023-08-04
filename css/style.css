@@ -37,7 +37,9 @@ p {
     margin-bottom: 30px;
   }
 }
-
+.fa-search {
+  color: #17a2b8;
+}
 
 .submit-color {
   background-color: #DE660D;
